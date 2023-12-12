@@ -1,0 +1,5 @@
+France|Paris
+Portugal|Lisboa
+Portugal|Coimbra
+Alemanha|Berlim
+Zimbabwe|Harare
